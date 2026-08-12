@@ -36,9 +36,3 @@ Future studies:
 - Python
 - Embedded Systems
 - Hardware and Software Integration
-
-
-```markdown
-![Linux](https://img.shields.io/badge/Linux-Fedora-blue)
-![Java](https://img.shields.io/badge/Java-Learning-orange)
-![Git](https://img.shields.io/badge/Git-Version_Control-red)
